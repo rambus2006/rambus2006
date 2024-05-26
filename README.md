@@ -12,5 +12,10 @@
   <img src="https://img.shields.io/badge/photoshop-000000?style=flat-square&logo=&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 
+|제목|내용|설명|
+|------|---|---|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
+|테스트1|테스트2|테스트3|
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
 </div>
