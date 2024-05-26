@@ -15,8 +15,8 @@
 
 ### PROJECT
 ---
-|순서 | 제목 | 설명 | 기간 | 사용기술 |
-|----|-------|------|-----|---------|
+|순서 | 제목 | 설명 | 사용기술 |
+|----|-------|-----|---------|
 | 01 |핏북 |...|테스트3|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>| 
 | 02 |스타일허브|핏북프로젝트에 기능 추가한 프로젝트|테스트3||
 | 03 |[세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>|
