@@ -15,10 +15,8 @@
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
   <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
-</div>
 
 ### PROJECT
----
 |순서 | 제목 | 설명 | 사용기술 |
 |----|-------|-----|---------|
 | 01 |핏북 |...|테스트3|<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a><img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/></a> <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white"/></a>| 
@@ -27,6 +25,9 @@
 | 04 |밥세끼|javaGUI를 이용한 프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
 | 05 |[피자가게 키오스크](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
 | 06 |[학생관리 프로그램](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
+</div>
+
+
 
 
 
