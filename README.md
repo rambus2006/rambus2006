@@ -21,8 +21,8 @@
 | 02 |스타일허브|핏북프로젝트에 기능 추가한 프로젝트|테스트3||
 | 03 |[세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>|
 | 04 |밥세끼|javaGUI를 이용한 프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
-| 05 |피자가게 키오스크|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
-| 06 |학생관리 프로그램|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
+| 05 |[피자가게 키오스크](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
+| 06 |[학생관리 프로그램]|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
 
