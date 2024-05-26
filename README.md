@@ -18,7 +18,7 @@
 | 제목 | 설명 | 기간 | 사용기술 |
 |------|------|-----|---------|
 |핏북 |...|테스트3|<img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>| 
-|스타일허브|2학년 때 제작한 핏북프로젝트에 기능을 추가하여 업그레이드 시켰습니다 |테스트3|<img alt="Html" src ="https://img.shields.io/badge/원하는 아이콘.svg?&style=for-the-badge&logo=벳지내 글자&logoColor=벳지 글자 색"/>|
+|스타일허브|2학년 때 제작한 핏북프로젝트에 기능을 추가하여 업그레이드 시켰습니다 |테스트3|<img alt="Html" src ="https://img.shields.io/badge/python.svg?&style=for-the-badge&logo=pythonlogoColor=ff00ee"/>|
 |테스트1|테스트2|테스트3|
 
 
