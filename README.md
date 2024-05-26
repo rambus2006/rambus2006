@@ -26,9 +26,14 @@
 | 05 |밥세끼|javaGUI를 이용한 프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
 | 06 |[피자가게 키오스크](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
 | 07 |[학생관리 프로그램](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>|
-</div>
 | 08 | voiceCall |성우들의 덕질사이트| 제작중👩‍💻|
 | 09 | 환경미연시 | IT쇼 프로젝트| 제작중👩‍💻|
+
+</div>
+
+
+
+
 
 
 
