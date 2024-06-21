@@ -17,7 +17,7 @@
 
 ### 💻대표 PROJECT
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 
-|----|-------|-----|---------|-----|
+|-------|-------|-----|---------|-----|
 | 01 | [너의 오늘은]() | 서로가 쓴 일기를 확인할 수 있는 프로젝트( IT쇼 프로젝트) | node.js,React | 개인작 |
 | 02 |스타일허브| 2학년에 제작한 핏북프로젝트에 기능 추가한 프로젝트| | 개인작 |
 | 04 |[세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>| 팀(김소희,이지인,방민서)작|
