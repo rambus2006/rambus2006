@@ -16,9 +16,8 @@
   <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
 
-</div>
-
 ### 💻 Blog
+</div>
 ```bash
 ├── 네이버블로그 : https://blog.naver.com/rambus06 
 └── 벨로그 : https://velog.io/@rambus06/posts
