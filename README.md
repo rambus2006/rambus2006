@@ -2,10 +2,10 @@
 <div align="center">
   
 ### 💻 Blog
-  ```
+```
   -  네이버블로그 : https://blog.naver.com/rambus06 
   -  벨로그 : https://velog.io/@rambus06/posts
-  ```
+```
 </div>
 <div align="center">
   
