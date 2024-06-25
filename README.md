@@ -6,7 +6,6 @@
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
 [벨로그](https://velog.io/@rambus06/posts)
 
-
 </div>
 <div align="center">
   
@@ -21,10 +20,12 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/photoshop-000000?style=flat-square&logo=&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
+</div>
   <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
+<div align="center">
   
 ### 💻대표 PROJECT
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 
