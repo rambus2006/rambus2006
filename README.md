@@ -5,9 +5,6 @@
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
 [벨로그](https://velog.io/@rambus06/posts)
-
-</div>
-<div align="center">
   
 ### 💻 My skills
   <div style="display: flex; align-items: flex-start;"><img src="https://techstack-generator.vercel.app/java-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" /><img src="https://techstack-generator.vercel.app/react-icon.svg" alt="icon" width="65" height="65" /></div>
@@ -21,10 +18,12 @@
   <img src="https://img.shields.io/badge/photoshop-000000?style=flat-square&logo=&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
 </div>
+
   <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
   <br/>
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
+  
 <div align="center">
   
 ### 💻대표 PROJECT
