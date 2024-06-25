@@ -3,8 +3,8 @@
   
 ### 💻 Blog
 
-- 네이버블로그 : https://blog.naver.com/rambus06
-- 벨로그 : https://velog.io/@rambus06/posts
+[네이버블로그](https://blog.naver.com/rambus06)
+[벨로그](https://velog.io/@rambus06/posts)
 
 
 </div>
