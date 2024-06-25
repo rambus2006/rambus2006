@@ -16,6 +16,13 @@
   <br/>
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
 
+### 💻 Blog
+```bash
+├── 네이버블로그 : https://blog.naver.com/rambus06 
+└── 벨로그 : https://velog.io/@rambus06/posts
+```
+
+
 ### 💻대표 PROJECT
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 
 |-------|-----------|-----|---------|-----|
