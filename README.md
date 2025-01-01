@@ -1,8 +1,10 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github\%20💡&fontAlignY=45&desc=%20&fontSize=60&animation=twinkling) <br><br>
 <div align="center">
 ### 💻 History
+  
   - 2022.03.02~2025.01.22 미림마이스터고 뉴미디어 웹솔루션과 졸업
   - 2025.01.06~현재 SSAFY 13기 마이스터고 트랙(데이터 트랙)
+    
 ### 💻 Blog
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
