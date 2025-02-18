@@ -31,7 +31,7 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
-  
+  <img src="https://github.com/rambus2006/rambus2006/issues/1#issue-2859530807"/>
 <div align="center">
   
 ### 💻대표 PROJECT
