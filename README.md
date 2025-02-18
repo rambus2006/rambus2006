@@ -1,7 +1,8 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github\%20💡&fontAlignY=45&desc=%20&fontSize=60&animation=twinkling) <br><br>
+
 
 <div align="center">
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github\%20💡&fontAlignY=45&desc=%20&fontSize=60&animation=twinkling) <br><br>
 
 ### 💻 History
   <b>
@@ -10,7 +11,7 @@
   </b>
   
 
-
+<img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
 ### 💻 Blog
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
@@ -27,10 +28,9 @@
   <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=C&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/photoshop-000000?style=flat-square&logo=&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>
-</div>
+  </div>
 
   <br/>
-
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
 <div align="center">
