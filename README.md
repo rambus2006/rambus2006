@@ -2,17 +2,16 @@
 
 
 <div align="center">
-
+<img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
+<br/>
 
 ### 💻 History
   <b>
   2022.03.02 ~ 2025.01.22 미림마이스터고 뉴미디어 웹솔루션과 졸업<br>
   2025.01.06 ~ (현재) SSAFY 13기 마이스터고 트랙(데이터 트랙)
   </b>
-  
-<br>
-<img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
 <br/>
+
 ### 💻 Blog
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
