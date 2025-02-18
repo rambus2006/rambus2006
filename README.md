@@ -8,7 +8,8 @@
   2022.03.02 ~ 2025.01.22 미림마이스터고 뉴미디어 웹솔루션과 졸업<br>
   2025.01.06 ~ (현재) SSAFY 13기 마이스터고 트랙(데이터 트랙)
   </b>
-    
+<img src="https://github.com/rambus2006/rambus2006/issues/1#issue-2859530807"/>
+
 ### 💻 Blog
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
@@ -31,7 +32,6 @@
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=radical)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
-  <img src="https://github.com/rambus2006/rambus2006/issues/1#issue-2859530807"/>
 <div align="center">
   
 ### 💻대표 PROJECT
