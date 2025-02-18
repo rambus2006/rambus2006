@@ -9,7 +9,7 @@
   2025.01.06 ~ (현재) SSAFY 13기 마이스터고 트랙(데이터 트랙)
   </b>
   
-<img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
+
 
 ### 💻 Blog
 
