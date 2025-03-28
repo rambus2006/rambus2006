@@ -22,7 +22,6 @@
     <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="65" height="65" />
     <img src="https://techstack-generator.vercel.app/django-icon.svg" alt="icon" width="65" height="65" />
-    
     <br>
     <img src="https://techstack-generator.vercel.app/nginx-icon.svg" alt="icon" width="60" height="60" />
     <img src="https://techstack-generator.vercel.app/mysql-icon.svg" alt="icon" width="65" height="65" />
