@@ -44,7 +44,7 @@
   <br/>
   
 <div align="center">
-[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj={rambus06})](https://solved.ac/{rambus06})
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=rambus06)](https://solved.ac/rambus06)
   
 ![rambus06's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
