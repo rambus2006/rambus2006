@@ -45,6 +45,7 @@
 
 [![Solved.ac
 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=rambus06)](https://solved.ac/rambus06)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
 ![rambus06's GitHub stats](https://github-readme-stats.vercel.app/api?username=rambus2006&show_icons=true&theme=dracula)
 
 <div align="center">
