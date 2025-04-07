@@ -45,7 +45,7 @@
   
 <div align="center">
 [![Solved.ac
-rambus06](http://mazassumnida.wtf/api/v2/generate_badge?boj={handle})](https://solved.ac/{handle})
+프로필](http://mazassumnida.wtf/api/mini/generate_badge?boj={handle})](https://solved.ac/{handle})
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rambus2006&layout=compact&theme=dracula)
   
 ### 💻대표 PROJECT
