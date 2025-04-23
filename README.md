@@ -15,7 +15,7 @@
 ### 💻 Blog
 
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
-[hashnode]([https://velog.io/@rambus06/posts](https://rambuslog.hashnode.dev)
+[hashnode](https://rambuslog.hashnode.dev)
   
 ### 💻 My skills
   <div style="display: flex; align-items: flex-start;">
