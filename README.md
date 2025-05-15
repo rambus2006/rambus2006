@@ -1,7 +1,6 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=180&section=header&text=Welcome%20to%20my%20Github\%20💡&fontAlignY=45&desc=%20&fontSize=60&animation=twinkling) <br><br>
 
-[프론트엔드로드맵](https://roadmap.sh/frontend)
-[백엔드로드맵](https://roadmap.sh/backend)
+
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
@@ -13,6 +12,8 @@
   2025.01.06 ~ (현재) 삼성 청년 소프트웨어 아카데미(SSAFY) 13기 마이스터고 트랙 1기
   </b>
 <br/>
+[프론트엔드로드맵](https://roadmap.sh/frontend)
+[백엔드로드맵](https://roadmap.sh/backend)
 
 ### 💻 Blog
 
