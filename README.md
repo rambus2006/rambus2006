@@ -16,9 +16,7 @@
 
 
 ### 💻 Blog
-
 [네이버블로그](https://blog.naver.com/rambus06)<br/>
-[hashnode](https://rambuslog.hashnode.dev)
   
 ### 💻 My skills
   <div style="display: flex; align-items: flex-start;">
@@ -63,9 +61,9 @@
 |-------|-----------|-----|---------|-----|
 | 01 | [너의 오늘은](https://github.com/rambus2006/ITSHOW/tree/master) | 서로가 쓴 일기를 교환해서 볼 수 있는 서비스입니다. | <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>,<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> | 개인작 |
 | 02 | [나의 비밀을 지켜줘](https://github.com/pengsuming/Keep_my_secret) | IT쇼 프로젝트|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>,<img src="https://img.shields.io/badge/renpy-FF7F7F?style=flat-square&logo=renpy&logoColor=white"/></a> |  팀(이솔희,윤민서,방민서)작 |
-| 03 |[세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>| 팀(김소희,이지인,방민서)작|
-| 04 | voiceCall |성우들의 덕질사이트| 제작중👩‍💻|
-
+| 03 | [세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>| 팀(김소희,이지인,방민서)작|
+| 04 | [] |성우들의 덕질사이트| 제작중👩‍💻|
+| 05 | voiceCall |성우들의 덕질사이트| 제작중👩‍💻|
 
 ### 💻PROJECTS
 |순서 | 제목 | 설명 | 사용기술 | 분류 |
