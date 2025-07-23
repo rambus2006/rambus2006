@@ -56,7 +56,7 @@
 
 <div align="center">
   
-### 💻대표 PROJECT
+### 💻 PROJECTS
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 
 |-------|-----------|-----|---------|-----|
 | 01 | [리브레(Libre)](https://github.com/rambus2006/Libre.git) | 도서 커뮤니티 사이트(프론트)|vue3,Django|팀(방민서,임혜성)작 |
