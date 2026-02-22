@@ -3,7 +3,7 @@
 
 
 <div align="center">
-<img src="https://github.com/user-attachments/assets/dd8dd228-6d7c-414b-b77c-d7eff20bad27"/>
+<img src="https://github.com/rambus2006/rambus2006/issues/3#issue-3974643487"/>
 <br/>
 
 ### 💻 History
