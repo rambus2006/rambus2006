@@ -59,14 +59,15 @@
 ### 💻 PROJECTS
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 
 |-------|-----------|-----|---------|-----|
-| 01 | [혼삶](https://github.com/rambus2006/honlife) | 자취생들을 위한 나만의 집 관리 가이드 서비스 |React,TypeScript,TailwindCSS |팀:6명(김희진, 박민우, 방민서,정용준,김홍배)|
-| 02 | [리브레(Libre)](https://github.com/rambus2006/Libre.git) | 도서 커뮤니티 사이트(프론트)|vue3,Django|팀(방민서,임혜성)작 |
-| 03 | [너의 오늘은](https://github.com/rambus2006/ITSHOW/tree/master) | 서로가 쓴 일기를 교환해서 볼 수 있는 서비스입니다. | <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>,<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> | 개인작 |
-| 04 | [나의 비밀을 지켜줘](https://github.com/pengsuming/Keep_my_secret) | IT쇼 프로젝트|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>,<img src="https://img.shields.io/badge/renpy-FF7F7F?style=flat-square&logo=renpy&logoColor=white"/></a> |  팀(이솔희,윤민서,방민서)작 |
-| 05 | [세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>| 팀(김소희,이지인,방민서)작|
-| 06 |[밥세끼](https://github.com/rambus2006/JavaSchoolProject_.git)|javaGUI를 이용한 프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
-| 07 |[피자가게 키오스크](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
-| 08 |[학생관리 프로그램](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
+| 01 | [MeetHub](https://github.com/rambus2006/MeetHub.git) | | |팀(7인):  | 
+| 02 | [혼삶](https://github.com/rambus2006/honlife) | 자취생들을 위한 나만의 집 관리 가이드 서비스 |React,TypeScript,TailwindCSS |팀(6인):김희진, 박민우, 방민서,정용준,김홍배)|
+| 03 | [리브레(Libre)](https://github.com/rambus2006/Libre.git) | 도서 커뮤니티 사이트(프론트)|vue3,Django|팀(방민서,임혜성)작 |
+| 04 | [너의 오늘은](https://github.com/rambus2006/ITSHOW/tree/master) | 서로가 쓴 일기를 교환해서 볼 수 있는 서비스입니다. | <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>,<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> | 개인작 |
+| 05 | [나의 비밀을 지켜줘](https://github.com/pengsuming/Keep_my_secret) | IT쇼 프로젝트|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>,<img src="https://img.shields.io/badge/renpy-FF7F7F?style=flat-square&logo=renpy&logoColor=white"/></a> |  팀(이솔희,윤민서,방민서)작 |
+| 06 | [세구깡](https://github.com/rambus2006/HanyangPy-Segugang) |파이썬을 이용한 게임|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>| 팀(김소희,이지인,방민서)작|
+| 07 |[밥세끼](https://github.com/rambus2006/JavaSchoolProject_.git)|javaGUI를 이용한 프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
+| 08 |[피자가게 키오스크](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
+| 09 |[학생관리 프로그램](https://github.com/rambus2006/JavaArrangement?tab=readme-ov-file#%ED%94%BC%EC%9E%90%EA%B0%80%EA%B2%8C%ED%82%A4%EC%98%A4%EC%8A%A4%ED%81%AC)|java를 이용한 미니프로젝트|<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>| 개인작 | 
 
 </div>
 
