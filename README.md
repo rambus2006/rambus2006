@@ -10,7 +10,7 @@
   <b>
   2022.03.02 ~ 2025.01.22 미림마이스터고 뉴미디어 웹솔루션과 졸업<br>
   2025.01.06 ~ 2025.12.31 삼성 청년 소프트웨어 아카데미(SSAFY) 13기 마이스터고 트랙 1기<br>
-  2026.03.02 ~ (현재) 
+  2026.03.02 ~ (현재) 한국공학대학교 디자인공학부 <br>
   </b>
 <br/>
 
@@ -59,8 +59,8 @@
 ### 💻 PROJECTS
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 기간 |  
 |-------|-----------|-----|---------|-----|----|
-| 01 | [MeetHub](https://github.com/rambus2006/MeetHub.git) | 당신의 회의 메이트 | React 19,Spring Boot 3.5,python3.10 등 |팀(7인):이강현,권혁준,김미진,박준서,방민서,유병규,윤승주 | 25.10.10~25.11.20(7주) |
-| 02 | [혼삶](https://github.com/rambus2006/honlife) | 자취생들을 위한 나만의 집 관리 가이드 서비스 |React,TypeScript,TailwindCSS |팀(6인):김희진, 박민우, 방민서,정용준,김홍배)| 25.09.22~25.10.02(2주)|
+| 01 | [MeetHub](https://github.com/rambus2006/MeetHub.git) | 당신의 회의 메이트 | React 19,Spring Boot 3.5,python3.10 등 |팀(7인):이강현,권혁준,김미진,박준서,방민서,유병규,윤승주 | 25.10.10~25.11.20 |
+| 02 | [혼삶](https://github.com/rambus2006/honlife) | 자취생들을 위한 나만의 집 관리 가이드 서비스 |React,TypeScript,TailwindCSS |팀(6인):김희진, 박민우, 방민서,정용준,김홍배)| 25.09.22~25.10.02|
 | 03 | [리브레(Libre)](https://github.com/rambus2006/Libre.git) | 도서 커뮤니티 사이트(프론트)|vue3,Django|팀(방민서,임혜성)작 ||
 | 04 | [너의 오늘은](https://github.com/rambus2006/ITSHOW/tree/master) | 서로가 쓴 일기를 교환해서 볼 수 있는 서비스입니다. | <img src="https://img.shields.io/badge/node.js-5FA04E?style=flat-square&logo=nodedotjs&logoColor=white"/></a>,<img src="https://img.shields.io/badge/react-61DAFB?style=flat-square&logo=react&logoColor=white"/></a> | 개인작 ||
 | 05 | [나의 비밀을 지켜줘](https://github.com/pengsuming/Keep_my_secret) | IT쇼 프로젝트|<img src="https://img.shields.io/badge/Python-3766AB?style=flat-square&logo=Python&logoColor=white"/></a>,<img src="https://img.shields.io/badge/renpy-FF7F7F?style=flat-square&logo=renpy&logoColor=white"/></a> |  팀(이솔희,윤민서,방민서)작 ||
