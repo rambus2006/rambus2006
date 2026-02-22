@@ -59,7 +59,7 @@
   
 ### 💻 PROJECTS
 |순서 | 제목 | 설명 | 사용기술 | 분류 | 기간 |  
-|-------|-----------|-----|---------|-----|----|
+|-------|-----------|-----|-----|-----|-----|
 | 01 | [MeetHub](https://github.com/rambus2006/MeetHub.git) | 당신의 회의 메이트 | React 19,Spring Boot 3.5,python3.10 등 |팀(7인):이강현,권혁준,김미진,박준서,방민서,유병규,윤승주 | 25.10.10~25.11.20 |
 | 02 | [혼삶](https://github.com/rambus2006/honlife) | 자취생들을 위한 나만의 집 관리 가이드 서비스 |React,TypeScript,TailwindCSS |팀(6인):김희진, 박민우, 방민서,정용준,김홍배)| 25.09.22~25.10.02|
 | 03 | [리브레(Libre)](https://github.com/rambus2006/Libre.git) | 도서 커뮤니티 사이트(프론트)|vue3,Django|팀(방민서,임혜성)작 ||
